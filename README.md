@@ -1,7 +1,7 @@
 # Deniz Aksoy Veri Görselleştirme
 ## Kurs İçerikleri
-1- Veri Görselleştirmenin Tanımı
-2- Gestalt Prensipleri
+1. Veri Görselleştirmenin Tanımı
+2. Gestalt Prensipleri
 3- Görsel Algı Nedir? Nasıl İşler?
 4- İyi Görsel Nedir? Özellikleri Nelerdir?
 5- Grafikler neyi anlatır, Özellikleri nedir, Nelere dikkat etmeli
