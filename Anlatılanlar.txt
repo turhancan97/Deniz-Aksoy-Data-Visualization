@@ -1,0 +1,24 @@
+1- Veri Görselleştirmenin tanımı
+2- Gestalt Prensipleri
+3- Görsel Algı Nedir? Nasıl İşler?
+4- İyi Görsel Nedir? Özellikleri Nelerdir?
+Grafikler neyi anlatır, Özellikleri nedir, Nelere dikkat etmeli
+5- Verileri Anlamlandırma
+6- Grafik Sürekliliği: Doğru Grafiği Seçmek
+7- Datadaki Farklılıkları Görselleştirme
+8- Datadaki İlişkileri Görselleştirme
+9- Sütun Grafikleri
+10- Çizgi Grafikleri
+11- Pasta Grafikleri
+12- Histogram
+13- Dağılım Grafikleri
+14- Alan Grafikleri
+15- Karma Grafikler
+16- Grafikleri Sunuma Aktarma
+17- Renk Seçimi
+18- Grafik ve Tablo Kullanımı
+19- Slayt Yerleşimi
+20- Diğer Uygulamalar
+21- Örnek Grafik ve Sunum İnceleme
+22- Örnek Uygulama
+23- Katılımcı Data ve Sunumlarında Uygulama
